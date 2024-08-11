@@ -26,6 +26,7 @@ def home_page_for_intro():
     6. **Stop Parameter**: This parameter allows you to stop the generation of tokens based on certain words or phrases.
     7. **Streaming**: This parameter allows you to stream the response in real-time.
     8. **Image Input**: Learn how to provide image input to the model.
+    9. **Structured Output**: Learn how to get Structured output from OpenAI.
                 
     ##### References:
     - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
